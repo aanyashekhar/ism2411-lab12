@@ -1,0 +1,17 @@
+Exercise 6)
+
+PS C:\Users\aanya\Documents\ism2411\unit1\module02> & C:\Users\aanya\AppData\Local\Python\pythoncore-3.14-64\python.exe c:/Users/aanya/Documents/ism2411/unit1/hello2.py
+Aanya Shekhar - Business Analytics and Information Systems Major
+Traceback (most recent call last):
+  File "c:\Users\aanya\Documents\ism2411\unit1\hello2.py", line 2, in <module>
+    prnt("Aanya Shekhar - Business Analytics and Information Systems Major")
+    ^^^^
+NameError: name 'prnt' is not defined. Did you mean: 'print'?
+
+error is on line 2, it is a NameError, the message says name 'prnt' is not defined. Did you mean: 'print'?. it tells me the problem is with the word "prnt" and a possible solution to the error. 
+
+Exercise 7)
+
+the error is "[Errno 2] No such file or directory"
+
+it gave an error for python3 hello.py because the directory was in unit1 and that folder did not contain hello.py. the folder inside of it, module02, was the one containing hello.py so it worked for python 3 module02/hello.py since it moved into module02 to run hello.py.

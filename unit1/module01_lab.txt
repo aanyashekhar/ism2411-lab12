@@ -1,0 +1,50 @@
+Exercise 1) "C:\Users\aanya\Downloads\chapter 1 problems 42 and 44.pdf"
+
+"C:\" is the root, "Users\aanya\Downloads" is the directory chain, "chapter 1 problems 42 and 44" is the filename, ".pdf" is the extension
+
+
+Exercise 3) 
+
+CPU: The main thinker of the computer
+RAM: short term memory
+Storage: long term memory
+File: collection of bytes
+Directory: collection of files
+Path: where to find file
+Extension: format of file attached to end of filename
+Program: instructions given to computer
+Interpreter: thing that reads the instructions 
+
+Exercise 4)
+1. formatting a calendar in excel 
+2. making dropdowns and options 
+3. color coding separate boxes 
+all of these could be automated by a program
+
+Exercise 5)
+
+home
+	alice
+		projects
+			q1_report
+				data
+					sales.csv
+				scripts
+					summary.py
+			q2_report
+				data
+					sales.csv
+
+/home/alice/projects/q2_report/scripts/summary.py
+
+
+Exercise 6)
+a) RAM, short storage changes not saved long term 
+b) Storage, missing file
+c) RAM capacity isn't big enough
+
+Self-Assessment Questions
+1) Before I would say that when you opened a file your file would open but now I know there's more components involved in even a simple task like that. 
+2) program, a metaphor
+3) All the specific components involved and the actual code that automates the task. 
+
